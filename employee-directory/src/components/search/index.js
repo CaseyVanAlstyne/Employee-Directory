@@ -6,7 +6,7 @@ import React from "react-bootstrap/Col";
 // style applied from frontend.css. Need to add into other component files.
 import "../frontend.css";
 
-const searchBar = (pops) => {
+const searchBar = (props) => {
   return (
     <Container>
       <Row>
