@@ -1,10 +1,10 @@
 import React from "react";
 import Form from "react-bootstrap/Form";
-import React from "react-bootstrap/Container";
-import React from "react-bootstrap/Row";
-import React from "react-bootstrap/Col";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+
 // style applied from frontend.css. Need to add into other component files.
-import "../frontend.css";
+import "../../frontend.css";
 
 const searchBar = (props) => {
   return (
