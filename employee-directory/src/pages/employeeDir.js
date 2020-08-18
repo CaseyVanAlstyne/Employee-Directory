@@ -5,3 +5,9 @@ import Footer from "../components/footer";
 import Header from "../components/header";
 import Search from "../components/search";
 import $ from "jquery";
+
+class employeeDirectory extends component {
+  state = {
+    employee,
+  };
+}
